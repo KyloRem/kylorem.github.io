@@ -1,9 +1,9 @@
 # kylorem.github.io
 
-<title>
+<head>
   <h1>
     <em>About Me</em>
   </h1>
-</title>
+</head>
 
 <body><h2>Mission Statement</h2></body>
