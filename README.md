@@ -2,7 +2,7 @@
 
 <head>
   <h1>
-    <em>About Me</em>
+    <strong>About Me</strong>
   </h1>
 </head>
 
