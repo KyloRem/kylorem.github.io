@@ -14,7 +14,17 @@
 
 
 <body>
-  <h2>
-    Mission Statement
-  </h2>
+  <h2>Skills</h2>
+</body>
+
+<body>
+  <h2>Professional Experience</h2>
+</body>
+
+<body>
+  <h2>Certifications and Awards</h2>
+</body>
+
+<body>
+  <h2>Education</h2>
 </body>
