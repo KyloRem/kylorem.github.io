@@ -1,6 +1,6 @@
 <!--for reference https://github.com/twbs/bootstrap/blob/main/README.md?plain=1-->
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Rem Jaques</h1>
 
 <p align="center">
   Hi! I'm Rem Jaques. I'm a security engineer specializing in SIEM administration and analytics development. I've worked various roles in security, from IT audit to research and development. I'm a passionate person who questions things often, loves to tinker, and commits to learning. I'm also a hobbyist music engineer, producer, and lead singer for an alternative pop band. You can find me road biking otherwise.
@@ -23,8 +23,14 @@
 
 <body>
   <h2>Certifications and Awards</h2>
+  <ul>
+    <li>Splunk Core Certified User</li>
+    <li>Logrhythm Certified Security Analyst</li>
+    <li>Eagle Scout</li>
+  </ul>
 </body>
 
 <body>
   <h2>Education</h2>
+    <em>University of St. Thomas, B.A. Accounting</em>
 </body>
